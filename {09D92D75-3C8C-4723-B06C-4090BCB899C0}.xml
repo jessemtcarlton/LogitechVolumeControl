@@ -370,6 +370,7 @@
           <do task="volumedown"/>
         </media>
       </macro>
+	    <!-- make your macros here with a unique guid --->
       <macro name="Volume Up Repeat" color="4278246655" guid="{0F36380A-31DB-475E-BB27-0EAECA670CEF}" repeatmode="pressed" hidden="false" repeatdelay="150">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="VOLUME_UP"/>
@@ -601,6 +602,7 @@
       <assignment original="false" contextid="Button11" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" shiftstate="1" backup="false"/>
       <assignment original="false" contextid="Button8" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" shiftstate="1" backup="false"/>
       <assignment original="false" contextid="Button9" macroguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" shiftstate="1" backup="false"/>
+	    <!-- assign your macros to buttons here by referencing the guid. -->
       <assignment original="false" contextid="Button7" macroguid="{0F36380A-31DB-475E-BB27-0EAECA670CEF}" shiftstate="1" backup="false"/>
       <assignment original="false" contextid="Button4" macroguid="{519A1884-104D-4B50-9871-291C408886B5}" shiftstate="1" backup="false"/>
     </assignments>
